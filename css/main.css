@@ -1,3 +1,10 @@
+body {  
+ padding-top: 6rem;  
+ padding-bottom: 6rem;  
+ padding-left: 4rem;  
+ padding-right: 4rem;
+}
+
 .jumbotron {
  background:url('http://www.etbridalandtuxedo.com/s/cc_images/cache_4101372519.jpg');
  height: 500px;
