@@ -1,0 +1,12 @@
+.jumbotron {
+ background-image:url('#');
+ height: 500px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ }
+ 
+ .jumbotron container {
+ position: relative;
+ top: 100px;
+ }
+ 
