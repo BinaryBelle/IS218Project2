@@ -24,6 +24,7 @@ body {
 }
 
 .jumbotron p {
+ color: #404040;
  font-size: 22px;
  font-family: cursive;
  font-weight: bold;
