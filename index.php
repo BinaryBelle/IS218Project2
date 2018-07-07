@@ -10,6 +10,14 @@
    <!-- Bootstrap CSS -->    
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <link href="css/main.css" rel="stylesheet"> 
+   
+   
+   <!--favicon-->
+   
+   <link rel="icon" href="heartfavicon.ico" type="image/gif" sizes="16x16">
+   
+   
+   </head>
        <body>
          <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">   
             <a class="navbar-brand" href="#">        
@@ -59,6 +67,4 @@
          
    </body>
       
-
-</head>
 </html>
